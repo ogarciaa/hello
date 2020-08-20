@@ -13,6 +13,9 @@ int main(int argc, char **argv) {
 
   printf("Odalys Garcia :)\n");
   printf("Computer Engineering\n");
+  
+  printf("Benjamin Morales\n");
+  printf("Computer Science\n");
 
   return 0;
 }
